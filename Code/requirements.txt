@@ -1,0 +1,10 @@
+requests
+Flask
+mysql-connector-python
+confluent-kafka
+Flask_SocketIO
+python-socketio
+simple-websocket
+asyncio
+websockets
+flask-sock
